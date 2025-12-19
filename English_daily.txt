@@ -1,19 +1,20 @@
-# Privacy Policy
+Privacy Policy
+Effective Date: December 18, 2025
 
-**Effective Date:** December 17, 2025
+English
+10 Words: English Daily ("the App") respects your privacy. This Privacy Policy explains that we do not collect, store, or share any personal information from our users.
 
-## English
+1. Data Collection
+We do not collect any personal data.
 
-**10 Words: English Daily** ("the App") respects your privacy. This Privacy Policy explains that we do not collect, store, or share any personal information from our users.
-
-### 1. Data Collection
-We do not collect any personal data. The App functions entirely offline.
-- **Progress & Settings:** All your learning progress, statistics, and settings are stored locally on your device.
-- **No Tracking:** We do not use any third-party analytics or tracking systems.
-
-### 2. Permissions
+Progress & Settings: All your learning progress, statistics, and settings are stored locally on your device (via UserDefaults).
+No Tracking: We do not use any third-party analytics or tracking systems.
+Voice Data: Voice input is processed in real-time on your device (using Apple's On-Device Speech Recognition where available) solely for the purpose of scoring pronunciation. We do not upload or store your voice recordings on any servers.
+2. Permissions
 The App may request access to:
-- **Notifications:** Used solely to send you daily reminders to learn new words. You can disable this in your device settings at any time.
 
-### 3. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: ss.kulnev8@gmail.com
+Microphone & Speech Recognition: Necessary to listen to your pronunciation during tests. This data is not shared with third parties.
+Notifications: Used solely to send you daily reminders to learn new words. You can disable this in your device settings at any time.
+3. Contact Us
+If you have any questions about this Privacy Policy, please contact us at: 
+ss.kulnev8@gmail.com
