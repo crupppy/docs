@@ -1,20 +1,150 @@
-Privacy Policy
-Effective Date: December 18, 2025
 
-English
-10 Words: English Daily ("the App") respects your privacy. This Privacy Policy explains that we do not collect, store, or share any personal information from our users.
+# Privacy Policy
 
-1. Data Collection
-We do not collect any personal data.
+**Effective Date:** December 20, 2025
 
-Progress & Settings: All your learning progress, statistics, and settings are stored locally on your device (via UserDefaults).
-No Tracking: We do not use any third-party analytics or tracking systems.
-Voice Data: Voice input is processed in real-time on your device (using Apple's On-Device Speech Recognition where available) solely for the purpose of scoring pronunciation. We do not upload or store your voice recordings on any servers.
-2. Permissions
+## English
+
+**10 Words: English Daily** ("the App") respects your privacy. This Privacy Policy explains how we handle your data.
+
+### 1. Data Collection
+We prioritize your privacy and do not collect Personally Identifiable Information (PII) such as your name, email address, or phone number.
+
+**1.1. Usage Data (Analytics)**
+We use **Google Analytics for Firebase** to help us understand how the App is used and to improve your experience. This service collects anonymous, aggregate data, including:
+- **Device Information:** Device model, operating system version, system language, and region.
+- **Usage Events:** Screens viewed, quiz scores, buttons clicked (e.g., audio playback), and other interactions within the App.
+- **Retention Data:** How often the App is opened.
+
+**1.2. Local Data**
+- **Progress:** Your personal learning progress (learned words, levels) is stored locally on your device. This data is not sent to our servers.
+
+**1.3. Microphone & Speech Recognition**
+The App uses your device's microphone and Apple's Speech Recognition API to evaluate your English pronunciation.
+- **Usage:** Audio is recorded only when you actively press the recording button during pronunciation quizzes.
+- **Processing:** Voice data is sent to Apple's servers for processing (or processed locally on supported devices) to convert speech to text. We do not store, listen to, or share your voice recordings.
+
+### 2. How We Use Data
+The anonymous data collected via Firebase is used solely for:
+- Analyzing user behavior to improve App features.
+- Identifying popular content (categories) and difficult words.
+- Fixing bugs and performance issues.
+
+### 3. Permissions
 The App may request access to:
+- **Notifications:** Used solely to send you daily reminders to learn new words. You can disable this in your device settings at any time.
+- **Microphone & Speech Recognition:** Required only for the pronunciation practice feature. You can deny this permission and still use the rest of the App.
 
-Microphone & Speech Recognition: Necessary to listen to your pronunciation during tests. This data is not shared with third parties.
-Notifications: Used solely to send you daily reminders to learn new words. You can disable this in your device settings at any time.
-3. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: 
-ss.kulnev8@gmail.com
+### 4. Contact Us
+If you have any questions about this Privacy Policy, please contact us at: ss.kulnev8@gmail.com
+
+---
+
+## Русский
+
+**10 Words: English Daily** ("Приложение") уважает вашу конфиденциальность. Данная Политика описывает, как мы работаем с вашими данными.
+
+### 1. Сбор данных
+Мы не собираем персональные данные, позволяющие установить вашу личность (такие как имя, email или номер телефона).
+
+**1.1. Данные об использовании (Аналитика)**
+Мы используем **Google Analytics for Firebase**, чтобы понимать, как пользователи взаимодействуют с приложением, и улучшать его. Этот сервис собирает анонимные агрегированные данные, включая:
+- **Информация об устройстве:** Модель устройства, версия ОС, язык системы и регион.
+- **События использования:** Просмотренные экраны, результаты квизов, нажатия на кнопки (например, воспроизведение аудио) и другие действия внутри приложения.
+- **Данные удержания:** Как часто открывается приложение.
+
+**1.2. Локальные данные**
+- **Прогресс:** Ваш личный прогресс обучения (выученные слова, уровени) хранится исключительно локально на вашем устройстве. Эти данные не отправляются на наши серверы.
+
+**1.3. Микрофон и Распознавание речи**
+Приложение использует микрофон вашего устройства и технологию Apple Speech Recognition для оценки вашего английского произношения.
+- **Использование:** Аудио записывается только тогда, когда вы активно нажимаете кнопку записи во время проверки произношения.
+- **Обработка:** Голосовые данные отправляются на серверы Apple для обработки (или обрабатываются локально на поддерживаемых устройствах) для преобразования речи в текст. Мы не храним, не прослушиваем и не передаем ваши голосовые записи.
+
+### 2. Как мы используем данные
+Анонимные данные, полученные через Firebase, используются исключительно для:
+- Анализа поведения пользователей с целью улучшения функций приложения.
+- Определения популярного контента (категорий) и сложных слов.
+- Исправления ошибок и повышения производительности.
+
+### 3. Разрешения
+Приложение может запрашивать доступ к:
+- **Уведомлениям:** Используется исключительно для отправки ежедневных напоминаний об изучении слов. Вы можете отключить это в настройках устройства в любое время.
+- **Микрофону и Распознаванию речи:** Необходимы только для функции практики произношения. Вы можете запретить этот доступ и продолжать пользоваться остальными функциями приложения.
+
+### 4. Контакты
+Если у вас есть вопросы по данной Политике конфиденциальности, пожалуйста, свяжитесь с нами: ss.kulnev8@gmail.com
+
+---
+
+## Español (México)
+
+**10 Words: English Daily** ("la Aplicación") respeta su privacidad. Esta Política de Privacidad explica cómo manejamos sus datos.
+
+### 1. Recopilación de Datos
+Priorizamos su privacidad y no recopilamos Información de Identificación Personal (PII) como su nombre, dirección de correo electrónico o número de teléfono.
+
+**1.1. Datos de Uso (Analítica)**
+Utilizamos **Google Analytics para Firebase** para ayudarnos a comprender cómo se utiliza la Aplicación y mejorar su experiencia. Este servicio recopila datos anónimos y agregados, incluyendo:
+- **Información del Dispositivo:** Modelo del dispositivo, versión del sistema operativo, idioma del sistema y región.
+- **Eventos de Uso:** Pantallas vistas, puntuaciones de cuestionarios, botones pulsados (por ejemplo, reproducción de audio) y otras interacciones dentro de la Aplicación.
+- **Datos de Retención:** Con qué frecuencia se abre la Aplicación.
+
+**1.2. Datos Locales**
+- **Progreso:** Su progreso personal de aprendizaje (palabras aprendidas, niveles) se almacena localmente en su dispositivo. Estos datos no se envían a nuestros servidores.
+
+**1.3. Micrófono y Reconocimiento de Voz**
+La Aplicación utiliza el micrófono de su dispositivo y la API de reconocimiento de voz de Apple para evaluar su pronunciación en inglés.
+- **Uso:** El audio se graba solo cuando presiona activamente el botón de grabación durante los cuestionarios de pronunciación.
+- **Procesamiento:** Los datos de voz se envían a los servidores de Apple para su procesamiento (o se procesan localmente en dispositivos compatibles). No almacenamos ni compartimos sus grabaciones de voz.
+
+### 2. Cómo Usamos los Datos
+Los datos anónimos recopilados a través de Firebase se utilizan únicamente para:
+- Analizar el comportamiento del usuario para mejorar las funciones de la Aplicación.
+- Identificar contenido popular (categorías) y palabras difíciles.
+- Corregir errores y problemas de rendimiento.
+
+### 3. Permisos
+La Aplicación puede solicitar acceso a:
+- **Notificaciones:** Se utiliza únicamente para enviarle recordatorios diarios para aprender nuevas palabras. Puede desactivar esto en la configuración de su dispositivo en cualquier momento.
+- **Micrófono y Reconocimiento de Voz:** Requerido solo para la función de práctica de pronunciación. Puede denegar este permiso y seguir utilizando el resto de la Aplicación.
+
+### 4. Contáctenos
+Si tiene alguna pregunta sobre esta Política de Privacidad, por favor contáctenos en: ss.kulnev8@gmail.com
+
+---
+
+## Українська
+
+**10 Words: English Daily** ("Додаток") поважає вашу конфіденційність. Ця Політика конфіденційності пояснює, як ми обробляємо ваші дані.
+
+### 1. Збір даних
+Ми пріоритезуємо вашу конфіденційність і не збираємо особисту ідентифікаційну інформацію (PII), таку як ваше ім'я, адреса електронної пошти або номер телефону.
+
+**1.1. Дані про використання (Аналітика)**
+Ми використовуємо **Google Analytics for Firebase**, щоб зрозуміти, як використовується Додаток, і покращити ваш досвід. Цей сервіс збирає анонімні, агреговані дані, включаючи:
+- **Інформація про пристрій:** Модель пристрою, версія операційної системи, мова системи та регіон.
+- **Події використання:** Переглянуті екрани, результати тестів, натискання кнопок (наприклад, відтворення аудіо) та інші взаємодії в Додатку.
+- **Дані про утримання:** Як часто відкривається Додаток.
+
+**1.2. Локальні дані**
+- **Прогрес:** Ваш особистий прогрес у навчанні (вивчені слова, рівні) зберігається локально на вашому пристрої. Ці дані не надсилаються на наші сервери.
+
+**1.3. Мікрофон та Розпізнавання мови**
+Додаток використовує мікрофон вашого пристрою та API розпізнавання мови Apple для оцінки вашої англійської вимови.
+- **Використання:** Аудіо записується тільки тоді, коли ви активно натискаєте кнопку запису під час перевірки вимови.
+- **Обробка:** Голосові дані надсилаються на сервери Apple для обробки (або обробляються локально на підтримуваних пристроях) для перетворення мови в текст. Ми не зберігаємо та не передаємо ваші голосові записи.
+
+### 2. Як ми використовуємо дані
+Анонімні дані, зібрані через Firebase, використовуються виключно для:
+- Аналізу поведінки користувачів для покращення функцій Додатка.
+- Визначення популярного контенту (категорій) та складних слів.
+- Виправлення помилок та проблем з продуктивністю.
+
+### 3. Дозволи
+Додаток може запитувати доступ до:
+- **Сповіщень:** Використовується виключно для надсилання щоденних нагадувань про вивчення нових слів. Ви можете вимкнути це в налаштуваннях вашого пристрою в будь-який час.
+- **Мікрофон та Розпізнавання мови:** Потрібні лише для функції практики вимови. Ви можете заборонити цей доступ і продовжувати користуватися рештою функцій Додатка.
+
+### 4. Зв'яжіться з нами
+Якщо у вас є будь-які запитання щодо цієї Політики конфіденційності, будь ласка, зв'яжіться з нами за адресою: ss.kulnev8@gmail.com
