@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Voice Translator**  
-*Last Updated: January 12, 2026*
+*Last Updated: January 13, 2026*
 
 ---
 
@@ -12,54 +12,49 @@ Voice Translator ("we", "our", or "the App") is committed to protecting your pri
 ## 2. Information We Collect
 
 ### 2.1 Audio Data
-- We capture audio through your device's microphone for speech recognition
-- Audio is processed in real-time and is **not stored** on any server
+- We capture audio through your device's microphone exclusively for the purpose of speech recognition and translation.
+- Audio processing is performed using native operating system technologies.
 
 ### 2.2 Translation Data
-- Text generated from speech recognition is processed for translation
-- Translations are stored **locally on your device only** in the history feature
-- You can delete all history at any time from Settings
+- Text generated from speech recognition is processed for translation using built-in system translation technologies.
+- Translations are stored **locally on your device only** in the history feature.
+- You can delete all history at any time from the internal Settings menu.
 
 ### 2.3 Usage Data
-- We track the duration of translation usage for the subscription system
-- This data is stored in your iCloud account and synced across your devices
+- We may track session duration to implement service limitations (e.g., session time limits).
+- This technical data may be stored in your private cloud storage associated with your device account to sync usage status across your devices. We do not have access to this data.
 
 ## 3. How We Process Your Data
 
-### On-Device Mode
-When "On-Device Recognition" is enabled:
-- All speech recognition happens locally on your device
-- No audio data leaves your device
-
-### Online Mode
-When "On-Device Recognition" is disabled:
-- Audio may be sent to remote servers for enhanced processing
-- Provides higher accuracy for speech recognition
+### Speech Recognition & Translation
+- The App utilizes native frameworks provided by the operating system for processing.
+- When "On-Device Recognition" is valid and enabled, speech processing happens locally.
+- In some cases, or for enhanced accuracy, data may be processed by the operating system provider's servers in accordance with their Privacy Policy.
 
 ## 4. Data We Do NOT Collect
 
 We do **NOT**:
-- Store your audio recordings on any server
-- Share your data with third parties for marketing purposes
-- Sell your personal information
-- Track your location
-- Collect personal identifiable information
+- Store your audio recordings on our servers.
+- Share your personal data with third parties for marketing purposes.
+- Sell your personal information.
+- Track your precise location.
+- Collect personally identifiable information (PII) such as name, email, or phone number.
 
 ## 5. Data Storage
 
 | Data Type | Storage Location | Retention |
 |-----------|------------------|-----------|
-| Audio | Not stored | Immediately discarded |
+| Audio | Not stored | Immediately discarded after processing |
 | Translation history | Local device | Until you delete it |
-| Usage balance | iCloud | Permanent |
+| Usage/Session status | Cloud Storage (Private) | Needed for app functionality |
 | Preferences | Local device | Until app is deleted |
 
 ## 6. Your Rights
 
 You have the right to:
-- **Access**: View your translation history in the App
-- **Delete**: Clear all history from Settings
-- **Control**: Choose between On-Device and Online recognition modes
+- **Access**: View your translation history in the App.
+- **Delete**: Clear all history from the Settings menu.
+- **Control**: toggle settings related to speech recognition modes.
 
 ## 7. Children's Privacy
 
@@ -67,17 +62,15 @@ The App is not intended for children under 13. We do not knowingly collect perso
 
 ## 8. Security
 
-We implement appropriate technical measures to protect your data:
-- All network communications use encryption (HTTPS/TLS)
-- Local data is protected by your device's security features
+We implement appropriate technical measures to protect your data. Since the App relies heavily on on-device processing, your data benefits from the strong security protections built into the operating system.
 
 ## 9. Changes to This Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy in the App.
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy in the App or on our App Store page.
 
 ## 10. Contact Us
 
-If you have questions about this Privacy Policy, please contact us through the App Store.
+If you have questions about this Privacy Policy, please contact us through the App Store support page.
 
 ---
 
