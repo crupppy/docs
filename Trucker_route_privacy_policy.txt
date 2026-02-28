@@ -1,0 +1,53 @@
+Privacy Policy — TruckerRoute
+Last updated: February 2026
+
+1. Overview
+
+TruckerRoute ("we", "our", "the app") is a real-time road hazard and weather map for truck drivers. This Privacy Policy explains what information is collected when you use our app and how it is used.
+
+2. Information We Collect
+
+When you launch the app and accept the Terms of Service, we receive the following anonymous technical data:
+
+Anonymous device identifier (Apple's Vendor ID — resets if the app is deleted and reinstalled)
+App version
+iOS version
+Device language and timezone
+This data does not identify you personally and cannot be linked back to you. It is used solely to understand how many devices are actively using the app and which app versions are in use.
+
+3. Location Data
+
+The app requests access to your device location to display your position on the map (the blue dot). Your location is processed entirely on-device and is never transmitted to our servers or any third party.
+
+4. Data We Do Not Collect
+
+We do not collect:
+
+Your name, email address or any personal identifiers
+Your precise or historical location
+Any information about your routes or driving behavior
+Payment information
+Contacts, photos or any other device content
+5. Third-Party Services
+
+Mapbox provides the map tiles rendered in the app. When the map loads, your device makes requests to Mapbox servers. Please refer to the Mapbox Privacy Policy (https://www.mapbox.com/legal/privacy) for information on how Mapbox handles those requests.
+
+All road, weather and hazard data is sourced from public US government APIs (NOAA, NWS, NASA, USGS, NIFC, state DOT 511 networks) and does not involve any data collection from you.
+
+6. Data Retention
+
+Anonymous usage data (device identifier, app version, iOS version, language, timezone) is retained for up to 12 months and then deleted.
+
+7. Children's Privacy
+
+The app is rated 4+ and does not knowingly collect any data from children under the age of 13.
+
+8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated date at the top.
+
+9. Contact
+
+If you have questions about this Privacy Policy, you can reach us at:
+
+Website: https://trucker-route.com
