@@ -1,53 +1,70 @@
-Privacy Policy — TruckerRoute
-Last updated: February 2026
+Privacy Policy
+Last updated: March 2026
 
 1. Overview
-
-TruckerRoute ("we", "our", "the app") is a real-time road hazard and weather map for truck drivers. This Privacy Policy explains what information is collected when you use our app and how it is used.
+TruckerRoute ("we", "our", "the app") is a real-time road hazard and weather map for truck drivers, available as an iOS app and at trucker-route.com. This Privacy Policy explains what information is collected when you use our services and how it is used.
 
 2. Information We Collect
+When you launch the iOS app and accept the Terms of Service, we receive the following anonymous technical data:
 
-When you launch the app and accept the Terms of Service, we receive the following anonymous technical data:
-
-Anonymous device identifier (Apple's Vendor ID — resets if the app is deleted and reinstalled)
+Anonymous device identifier — Apple's Vendor ID (resets if the app is deleted and reinstalled; never tied to your Apple ID or identity)
 App version
 iOS version
 Device language and timezone
-This data does not identify you personally and cannot be linked back to you. It is used solely to understand how many devices are actively using the app and which app versions are in use.
+Approximate location — only if you grant location permission (see Section 3)
+This data does not identify you personally and cannot be linked back to you. It is used solely to understand how many devices are actively using the app and how it is being used.
+
+The website (trucker-route.com) collects anonymous page view analytics including page path, approximate session duration, and device type (desktop/mobile). No cookies, fingerprinting, or cross-site tracking is used.
 
 3. Location Data
+The iOS app requests access to your device location to display your position on the map (the blue dot). Location permission is entirely optional — the app functions fully without it.
 
-The app requests access to your device location to display your position on the map (the blue dot). Your location is processed entirely on-device and is never transmitted to our servers or any third party.
+If you grant location permission:
+
+Your coordinates are displayed on the map on your device.
+Your approximate location is transmitted to TruckerRoute servers as anonymous analytics data once per app launch.
+Coordinates are stored without any personally identifiable information and cannot be used to identify you.
+Location data is retained for up to 12 months and then deleted.
+You can revoke location permission at any time in iOS Settings → Privacy & Security → Location Services → TruckerRoute.
 
 4. Data We Do Not Collect
-
 We do not collect:
 
-Your name, email address or any personal identifiers
-Your precise or historical location
-Any information about your routes or driving behavior
+Your name, email address, or any personal identifiers
+Your historical location or driving routes
+Any information about your cargo or deliveries
 Payment information
-Contacts, photos or any other device content
+Contacts, photos, or any other device content
+Advertising identifiers (IDFA)
 5. Third-Party Services
+Mapbox provides the map tiles rendered in the app and on the website. When the map loads, your device makes requests to Mapbox servers. Please refer to the Mapbox Privacy Policy for details.
 
-Mapbox provides the map tiles rendered in the app. When the map loads, your device makes requests to Mapbox servers. Please refer to the Mapbox Privacy Policy (https://www.mapbox.com/legal/privacy) for information on how Mapbox handles those requests.
-
-All road, weather and hazard data is sourced from public US government APIs (NOAA, NWS, NASA, USGS, NIFC, state DOT 511 networks) and does not involve any data collection from you.
+All road, weather, and hazard data is sourced from public US government APIs (NOAA, NWS, NASA, USGS, NIFC, state DOT 511 networks) and does not involve any data collection from you.
 
 6. Data Retention
+Anonymous usage data (device identifier, app version, iOS version, language, timezone, and optionally location) is retained for up to 12 months and then deleted.
 
-Anonymous usage data (device identifier, app version, iOS version, language, timezone) is retained for up to 12 months and then deleted.
+7. California Privacy Rights (CCPA)
+If you are a California resident, the California Consumer Privacy Act (CCPA) grants you the following rights regarding your personal information:
 
-7. Children's Privacy
+Right to Know — You have the right to request information about the categories and specific pieces of personal information we have collected about you...
+Right to Delete — You have the right to request deletion of personal information we have collected from you.
+Right to Opt-Out of Sale — We do not sell your personal information to any third party. You do not need to opt out.
+Right to Non-Discrimination — We will not discriminate against you for exercising any of your CCPA rights.
+What "personal information" we hold about California residents:
 
-The app is rated 4+ and does not knowingly collect any data from children under the age of 13.
+Anonymous device identifier (Apple Vendor ID) — not linked to your identity
+Approximate geolocation — only if location permission was granted in the iOS app
+App version, iOS version, language, timezone
+To exercise your CCPA rights, contact us using the feedback form linked in Section 10. Because our data is stored anonymously without any name, email, or account, we may ask you to provide your device's Vendor ID (found in iOS Settings) to locate and delete your data.
 
-8. Changes to This Policy
+8. Children's Privacy
+The app is rated 4+ and does not knowingly collect any data from children under the age of 13. If you believe a child has provided personal information, please contact us and we will promptly delete it.
 
-We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated date at the top.
+9. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated date at the top. Continued use of the app or website after changes constitutes acceptance.
 
-9. Contact
+10. Contact
+If you have questions about this Privacy Policy, wish to exercise your CCPA rights, or want to report any privacy concern, please use our feedback form:
 
-If you have questions about this Privacy Policy, you can reach us at:
-
-Website: https://trucker-route.com
+trucker-route.com — open the site and click the "Send Feedback" button in the left sidebar. You can leave a message with or without an email address. We respond to all privacy-related requests within 45 days as required by CCPA.
